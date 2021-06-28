@@ -43,7 +43,7 @@ max      83.000000
 * Theremax temperature patterns of June and December differ by 2 degrees
 
 Summary:
-There is not a significant difference in the temperature patterns of June and December. To look further into if the temperature makes a difference, temperature data from 1 of the hottest and coldest months was analyzed. 
+There is not a significant difference in the temperature patterns of June and December. To look further into if the temperature makes a difference, temperature data from 1 of the hottest and coldest months was analyzed. The amount of preciptation was also reviewed for the months of June and december. The analysis does not show that the temperature or precipitation would prevent a  sustainable year-round surf and ice cream shop business.
 
 February is considered one of the coldest months of the year on Oahu.
 mean     69.442236
@@ -83,5 +83,55 @@ max      87.000000
 
 
 ![image](https://user-images.githubusercontent.com/74462990/123569332-be6a5e00-d78b-11eb-94c9-40955e4c491d.png)
+
+
+
+
+
+
+
+
+
+June Precipitation:
+June
+              prcp
+count  1405.000000
+mean      0.216819
+std       0.541399
+min       0.000000
+25%       0.000000
+50%       0.030000
+75%       0.150000
+max       6.420000
+
+
+![image](https://user-images.githubusercontent.com/74462990/123570463-db079580-d78d-11eb-9fb9-0c962bf5a755.png)
+
+
+
+
+
+
+
+
+
+
+December Precipitation:
+
+December
+              prcp
+count  1405.000000
+mean      0.216819
+std       0.541399
+min       0.000000
+25%       0.000000
+50%       0.030000
+75%       0.150000
+max       6.420000
+
+
+
+![image](https://user-images.githubusercontent.com/74462990/123570508-f4104680-d78d-11eb-874c-aae2c8417604.png)
+
 
 
