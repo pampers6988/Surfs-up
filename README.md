@@ -40,9 +40,48 @@ max      83.000000
 
 * The average temperature is 4 degrees cooler in December than in June
 * The minimum temperature is twice that of the average at 8 degrees cooler in December than in June
-* There is not a significant difference in the temperature patterns of June and December
+* Theremax temperature patterns of June and December differ by 2 degrees
 
 Summary:
+There is not a significant difference in the temperature patterns of June and December. To look further into if the temperature makes a difference, temperature data from 1 of the hottest and coldest months was analyzed. 
+
+February is considered one of the coldest months of the year on Oahu.
+mean     69.442236
+std       3.981399
+min      56.000000
+25%      67.000000
+50%      70.000000
+75%      72.000000
+max      83.000000
 
 
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December
+
+![image](https://user-images.githubusercontent.com/74462990/123569243-98dd5480-d78b-11eb-8be6-15d0f96b264f.png)
+
+
+
+
+
+
+
+
+
+
+
+
+August is considered on of the hottest months of the year on Oahu
+
+mean     76.412454
+std       3.453138
+min      65.000000
+25%      74.000000
+50%      76.000000
+75%      79.000000
+max      87.000000
+
+
+
+
+![image](https://user-images.githubusercontent.com/74462990/123569332-be6a5e00-d78b-11eb-94c9-40955e4c491d.png)
+
+
